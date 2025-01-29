@@ -1,0 +1,11 @@
+Model Information:
+* title:	Garage
+* source:	https://sketchfab.com/3d-models/garage-efbd455fd3a248049b1bedeb213ba7ea
+* author:	ChrisG (https://sketchfab.com/christianguevara)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Garage" (https://sketchfab.com/3d-models/garage-efbd455fd3a248049b1bedeb213ba7ea) by ChrisG (https://sketchfab.com/christianguevara) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
